@@ -36,7 +36,7 @@ function CreateArea({ onAdd }) {
       title: "",
       content: "",
     });
-    var items = allStorage();
+    let items = allStorage();
     localStorage.setItem(items+1, JSON.stringify(note));
     event.preventDefault();
   }
