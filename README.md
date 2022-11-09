@@ -1,5 +1,10 @@
 # Demo
+
 https://clever-blancmange-096a1d.netlify.app
+
+## Sonarcloud
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=chandru-git30_keep&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=chandru-git30_keep)
 
 ## Getting Started with Create React App
 
