@@ -11,7 +11,7 @@ function CreateArea({ onAdd }) {
   });
 
   function allStorage() {
-    var keys = Object.keys(localStorage),
+    let keys = Object.keys(localStorage),
     totalItems = keys.length;
     return totalItems;
   }
